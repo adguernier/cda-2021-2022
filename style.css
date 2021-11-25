@@ -1,0 +1,4 @@
+#formContact {
+	display: flex;
+	flex-direction: column;
+}
